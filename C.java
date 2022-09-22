@@ -27,4 +27,8 @@ public class C {
         System.out.println("Classe C - Método MC2");
     }
 
+    public void MC3() {
+        System.out.println("Classe C - Método MC3");
+    }
+
 }
