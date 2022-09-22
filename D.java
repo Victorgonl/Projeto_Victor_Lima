@@ -20,11 +20,15 @@ public class D {
     }
 
     public void MD1() {
-        System.out.println("Dlasse D - Método MD1");
+        System.out.println("Classe D - Método MD1");
     }
 
     public void MD2() {
-        System.out.println("Dlasse D - Método MD2");
+        System.out.println("Classe D - Método MD2");
+    }
+    
+    public void MD4() {
+        System.out.println("Classe D - Método MD4");
     }
 
 }
